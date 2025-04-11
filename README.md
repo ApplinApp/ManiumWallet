@@ -1,0 +1,2 @@
+# ManiumWallet
+Manium Wallet
